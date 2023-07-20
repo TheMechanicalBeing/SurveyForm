@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: mistyrose;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+}
+
+#survey-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0 20em 3em 20em;
+    background-color: darkviolet;
+    padding: 1em 2em 1.5em 2em;
+    color: white;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type="submit"] {
+    margin: auto;
+}
+
+input, select, textarea {
+    border-bottom: 2px solid pink;
+    background-color: #f1f1f1;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-bottom: 4px solid black;
+    padding: 1px;
+}
+
+input[type="submit"] {
+    border: 2px solid black;
+    cursor: pointer;
+    padding: 0.25em 2em;
+}
