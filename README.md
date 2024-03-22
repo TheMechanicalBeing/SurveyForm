@@ -1,6 +1,9 @@
 # Survey Form
 
-This is my first project from which I am going to involve into the front-end development as a developer.
-The project is made for collecting data of literature experience from an user.
+My **first public project** on Github.
 
-I only used HTML and CSS, so it's simple practice project.
+The project is pretty easy so it won't involve complex configuration path or running commands.
+
+It's just form application *using html/css*.
+
+I took idea from [Mozzilla Development Network learning resources](https://developer.mozilla.org/en-US/docs/Learn) (P.S. I recommend this learning docs).
