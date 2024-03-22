@@ -1,6 +1,6 @@
 # Survey Form
 
-My **first public project** on Github.
+My **first frontend public project** on Github.
 
 The project is pretty easy so it won't involve complex configuration path or running commands.
 
